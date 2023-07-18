@@ -1,4 +1,4 @@
-# Fine-Tuning-LLaMA
+# Fine Tuning LLaMA 7B using Parameter Efficient Fine-Tuning Methods
 This repository contains code and other files related to the project "Fine-Tuning LLaMA Model using Parameter-Efficient Fine-Tuning Methods" done at IIT Ropar as a part of the Indian Academy of Sciences SRFP Fellowship
 
 ## TODO:
